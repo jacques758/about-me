@@ -1,0 +1,42 @@
+body{
+    background-image: url("../img/photo-1534796636912-3b95b3ab5986.jpg");
+    background-color: lavender;
+}
+#menu_resume{
+    text-align: left;
+    border:solid green;
+    width: 100px;
+    margin-top: 200px;
+    margin-left: 100px;
+    padding: 30px;
+    border-radius: 30px;
+    text-transform: uppercase;
+    box-shadow: 0 0 0 5px #333;
+}
+
+#main_resume{
+    margin-top: -380px;
+    margin-left: 450px;
+    width: 500px;
+    padding: 20px;
+    font-size: 23px;
+    font-family: "Times New Roman", Times, serif;
+}
+#box1, #box2, #box3 {
+
+    border: 3px cyan solid;
+    margin: 30px 20px auto;
+    width: 400px;
+    height: auto;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+}
+a,p, ul {
+    color:white;
+}
+
+h3 {
+    text-align: center;
+}

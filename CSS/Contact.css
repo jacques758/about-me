@@ -1,0 +1,37 @@
+body{
+    background-color: lightblue;
+}
+
+#menu{
+    text-align: left;
+    border: solid purple;
+    width: 150px;
+    margin-top: 205px;
+    margin-left: 105px;
+    padding: 35px;
+    border-radius: 35px;
+    text-transform: uppercase;
+    box-shadow: 0 0 0 7px #355;
+}
+
+#contact_section{
+    margin-top: -330px;
+    margin-left: 450px;
+    width: 500px;
+    padding: 20px;
+    font-size: 23px;
+    font-family: "cursive", Candara, serif;
+}
+
+#box1{
+    border: 3px black solid;
+    margin: 35px 25px auto;
+    width: 450px;
+    height: auto;
+    padding: 25px;
+    font-size: 35px;
+
+}
+a{
+    text-decoration: none;
+}

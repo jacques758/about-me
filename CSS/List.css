@@ -1,0 +1,48 @@
+body{
+    background-image: url("../img/17197635.jpg");
+    background-size: auto;
+}
+
+#menu_list{
+    text-align: left;
+    border:solid white;
+    width: 203px;
+    margin-top: 203px;
+    margin-left: 103px;
+    padding: 33px;
+    border-radius: 30px;
+    text-transform: lowercase;
+    box-shadow: 0 0 0 7px #355;
+}
+
+#main_list{
+    margin-top: -385px;
+    margin-left: 350px;
+    width: 510px;
+    padding: 35px;
+    font-size: 25px;
+    font-family: Calibri,serif;
+
+}
+#list1,#list2, #list3, #list4, #list5{
+    border: 3px red solid;
+
+    margin: 30px 20px auto;
+    width: 400px;
+    height: complex;
+    padding: -25px;
+    font-size: 20px;
+
+}
+h3{
+    text-align: center;
+    color:purple;
+}
+
+a{
+    color: blue;
+    text-decoration: greenyellow;
+}
+ol, ul, dl{
+    color: white;
+}
